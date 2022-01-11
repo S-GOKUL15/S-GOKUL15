@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S-GOKUL15
 - 👀 I’m interested in ...C, C++, PYTHON, JAVA, .NET, C#
 - 🌱 I’m currently learning ...,PYTHON,JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...PRODUCT BASED COMPANY
 - 📫 How to reach me ...gokul15kd@gmail.com
 
 <!---
